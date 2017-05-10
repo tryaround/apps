@@ -1,7 +1,3 @@
-## TryAround App Ltd 
-
-### General Terms and Privacy Policy
-                
 <br><br>
 <h3><p style="text-align:center; color: #14A8C2;"><b>TryAround App Ltd - General Terms and conditions</b></p></h3>
 
