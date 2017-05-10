@@ -13,20 +13,21 @@
 <p style="color: #000000;">
 
 * Any app you download or use from TryAround App Ltd is a unique product on its own. All apps are developed and maintained by TryAround App Ltd. Medical apps are developed in association with Allergy Display Ltd where applicable.<br><br>
+* Purpose and nature of the app and its functionality can be seen in the app description page or on the about app view screen inside the app. Some apps can include introduction guide to explain you its features and functionalities. If you are not sure about apps feature or functionality, you can contact support email mentioned above.<br><br>
 * Your use of the apps is at your own risk.<br><br>
-* Neither TryAround App Ltd now Allergy Display Ltd provide any warranties or guarantees to any of the apps functionality or features. The use of the apps are at your own risk for any issues, problems or concerns directly or indirectly arising out of using our apps.<br><br>
+* Neither TryAround App Ltd nor Allergy Display Ltd provides any warranties or guarantees to any of the apps functionality or features. The use of the apps are at your own risk for any issues, problems or concerns directly or indirectly arising out of using our apps.<br><br>
 * Always remember to get proper medical or professional assistance if you are using health and fitness or medical apps and the apps are in no way a replacement or supplement to any of your medical or fitness conditions. Usage of the apps does not replace or suplement you from seeking proper professional assistance. Our Apps does not offer medical advice, diagnosis or treatments.<br><br>
 * We will use your information to communicate with you regarding products or services. We may contact you by app notifications or by email or sms for these purposes.<br><br>
 * If app requests Location information, its is provided by your phone/ios internal GPS frameworks and sometimes internet connection is required to get a meaninful readable address. In case of descrepancies or incorrect location reporting, the app will not be held responsible. Always check all the settings including location and other features inside the app before using it. The location information is just an approximate indication of where you are.<br><br>
-* You are not allowed to use the app without purchasing it from the apple app store unless if its a free to use app. Any other app version downloaded is illegal and is strictly not allowed. Additional features and/or subscriptions can be introduced in the future at the sole descretion of the app developer.<br><br>
-* No refunds will be offered for any fee or payments in any situation.<br><br>
+* You are not allowed to use the app without purchasing it from the apple app store unless if its a free to use app. Any other app version downloaded is illegal and is strictly not allowed. Apps may include additional features and/or monthly/yearly subscriptions.<br><br>
+* No refunds will be offered on any fee or payments in any situation.<br><br>
 * You must refrain from posting adult, illegal, defamatory or illicit contents in the app.<br><br>
 * TryAround App Ltd or Allergy Display Ltd will not be liable for any damages or loss or any conflict or any issues arising as a result of using the app or service or website.<br><br>
 
 <br>
 
 <p style="color: #000000;"><b>* SUBSCRIPTION FEES</b><br>
-If any of the apps require subscription fees, the works fully after your subscription. Subscriptions will be charged to your iTunes account after your confirmation of purchase.</p>
+If any of the apps require subscription or one time fees through in-app purchase, it works fully after your full payment. Some apps can offer restore feature where you can purchase features or upgrade on one device and free to use them on other devices that you own. However there is no guarantee to data transfers or data persistence between devices. All subscriptions and in-app purchase will be charged to your iTunes account after your confirmation of purchase.</p>
 
 <br>
 
