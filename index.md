@@ -17,17 +17,25 @@
 * Your use of the apps is at your own risk.<br><br>
 * Neither TryAround App Ltd nor Allergy Display Ltd provides any warranties or guarantees to any of the apps functionality or features. The use of the apps are at your own risk for any issues, problems or concerns directly or indirectly arising out of using our apps.<br><br>
 * Always remember to get proper medical or professional assistance if you are using health and fitness or medical apps and the apps are in no way a replacement or supplement to any of your medical or fitness conditions. Usage of the apps does not replace or suplement you from seeking proper professional assistance. Our Apps does not offer medical advice, diagnosis or treatments.<br><br>
-* We will use your information to communicate with you regarding products or services. We may contact you by app notifications or by email or sms for these purposes.<br><br>
+* If you have subscribed to us in website or by any other means, we will use your information to communicate with you regarding products or services. We may contact you by app notifications or by email or sms for these purposes.<br><br>
 * If app requests Location information, its is provided by your phone/ios internal GPS frameworks and sometimes internet connection is required to get a meaninful readable address. In case of descrepancies or incorrect location reporting, the app will not be held responsible. Always check all the settings including location and other features inside the app before using it. The location information is just an approximate indication of where you are.<br><br>
-* You are not allowed to use the app without purchasing it from the apple app store unless if its a free to use app. Any other app version downloaded is illegal and is strictly not allowed. Apps may include additional features and/or monthly/yearly subscriptions.<br><br>
+* You are not allowed to use the app without purchasing it from the apple app store unless if its a free to use app. Any other app version downloaded is illegal and is strictly not allowed. Apps may include additional features, one off purchases, in-app purchases(consumable and/or non-consumable products) and/or monthly/yearly subscriptions.<br><br>
+* If apps use MET values, the Metabolic Equivalent values are research values provided by compendium of physical activities, Arizona State University, Healthy Lifestyles Research Center, School of Nutrition and Health Promotion.<br><br>
+* If you use your own activity MET values, you are responsible for the outcome of calorie calculation and results.<br><br>
+* Any weight loss or calorie tracking or other health data reporting, planning or tracking with MET values or usage of tryAround's own estimator and tools must be done at your own risk. You are always required to get professional assistance from fitness professionals and doctors. You are solely responsible reliance on calorie calculation and results from the app. Any use of the MET values or tools inside the apps must be done at your own risk.<br><br>
 * No refunds will be offered on any fee or payments in any situation.<br><br>
 * You must refrain from posting adult, illegal, defamatory or illicit contents in the app.<br><br>
-* TryAround App Ltd or Allergy Display Ltd will not be liable for any damages or loss or any conflict or any issues arising as a result of using the app or service or website.<br><br>
+* TryAround App Ltd will not be liable for any damages or loss or any conflict or any issues arising as a result of using the app or service or website.<br><br>
+
+<br>
+
+<p style="color: #000000;"><b>* ABOUT HEALTH DATA</b><br>
+On supported devices, tryAround reads your Apple Health data with your permission to determine completion of your workouts and activities. Height and weight details maintained in tryAround will automatically be updated in Apple Health. All data is accessed in full accordance with the iOS app review rules set by Apple. We do not share your health data with anyone and all your data resides only in your own iPhone. If you decide to share your steps and other data from the app directly, you must take care of your own privacy. Step and distance data is only available automatically when using an iPhone 5S or newer, or using an accessory that writes to the Health app such as Apple Watch.
 
 <br>
 
 <p style="color: #000000;"><b>* SUBSCRIPTION FEES</b><br>
-If any of the apps require subscription or one time fees through in-app purchase, it works fully after your full payment. Some apps can offer restore feature where you can purchase features or upgrade on one device and free to use them on other devices that you own. However there is no guarantee to data transfers or data persistence between devices. All subscriptions and in-app purchase will be charged to your iTunes account after your confirmation of purchase.</p>
+If any of the apps from TryAround App Ltd require subscription or one time fees through in-app purchase, it works fully after your full payment. Some apps can offer restore feature where you can purchase features or upgrade on one device and free to use them on other devices that you own. However there is no guarantee to data transfers or data persistence between devices. All subscriptions and in-app purchase will be charged to your iTunes account after your confirmation of purchase.</p>
 
 <br>
 
