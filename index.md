@@ -22,15 +22,15 @@
 * You are not allowed to use the app without purchasing it from the apple app store unless if its a free to use app. Any other app version downloaded is illegal and is strictly not allowed. Apps may include additional features, one off purchases, in-app purchases(consumable and/or non-consumable products) and/or monthly/yearly subscriptions.<br><br>
 * If apps use MET values, the Metabolic Equivalent values are research values provided by compendium of physical activities, Arizona State University, Healthy Lifestyles Research Center, School of Nutrition and Health Promotion.<br><br>
 * If you use your own activity MET values, you are responsible for the outcome of calorie calculation and results.<br><br>
-* Any weight loss or calorie tracking or other health data reporting, planning or tracking with MET values or usage of tryAround's own estimator and tools must be done at your own risk. You are always required to get professional assistance from fitness professionals and doctors. You are solely responsible reliance on calorie calculation and results from the app. Any use of the MET values or tools inside the apps must be done at your own risk.<br><br>
+* Any weight loss or calorie tracking or other health data reporting, planning or tracking with MET values or usage of tryAround's own estimator and tools must be done at your own risk. You are always required to get professional assistance from fitness professionals and doctors. You are solely responsible for reliance on calorie calculation and results from the app. Any use of the MET values or tools inside the apps must be done at your own risk.<br><br>
 * No refunds will be offered on any fee or payments in any situation.<br><br>
 * You must refrain from posting adult, illegal, defamatory or illicit contents in the app.<br><br>
 * TryAround App Ltd will not be liable for any damages or loss or any conflict or any issues arising as a result of using the app or service or website.<br><br>
 
-<br>
+
 
 <p style="color: #000000;"><b>* ABOUT HEALTH DATA</b><br>
-On supported devices, tryAround reads your Apple Health data with your permission to determine completion of your workouts and activities. Height and weight details maintained in tryAround will automatically be updated in Apple Health. All data is accessed in full accordance with the iOS app review rules set by Apple. We do not share your health data with anyone and all your data resides only in your own iPhone. If you decide to share your steps and other data from the app directly, you must take care of your own privacy. Step and distance data is only available automatically when using an iPhone 5S or newer, or using an accessory that writes to the Health app such as Apple Watch.
+On supported devices, tryAround reads your Apple Health data with your permission to determine completion of your workouts and activities. Height and weight details maintained in tryAround will automatically be updated in Apple Health. All data is accessed in full accordance with the iOS app review rules set by Apple. We do not share your health data with anyone and all your data resides only in your own iPhone. If you decide to share your steps and other data from the app directly, you must take care of your own privacy. Step and distance data is only available automatically when using an iPhone 5S or newer, or using an accessory that writes to the Health app such as Apple Watch.</p>
 
 <br>
 
