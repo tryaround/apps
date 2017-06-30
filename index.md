@@ -34,19 +34,6 @@ On supported devices, tryAround reads your Apple Health data with your permissio
 
 <br>
 
-<p style="color: #000000;"><b>* SUBSCRIPTION FEES</b><br>
-If any of the apps from TryAround App Ltd require subscription or one time fees through in-app purchase, it works fully after your full payment. Some apps can offer restore feature where you can purchase features or upgrade on one device and free to use them on other devices that you own. However there is no guarantee to data transfers or data persistence between devices. All subscriptions and in-app purchase will be charged to your iTunes account after your confirmation of purchase.</p>
-
-<br>
-
-<p style="color: #000000;"><b>* SUBSCRIPTION AUTO-RENEWAL</b><br>
-Monthly subscriptions automatically renew each month, and yearly subscriptions automatically renew each year. Subscription renewal is charged through your iTunes account. Subscriptions renew automatically every month or every full year unless cancelled at least 24 hours prior to the end of the current subscription period.</p>
-<br>
-
-<p style="color: #000000;"><b>* TURNING OFF AUTO-RENEWAL</b><br>
-You can turn off auto-renewal at any time from your iTunes account settings. For your convenience, some of our apps provide a link to your subscription management page in the app's about view. Cancellation of the currently active subscription is not allowed.</p>
-<br>
-
 <p style="color: #000000;"><b>* Retention of Financial Data</b><br>We do not store or intend to store any financial details (credit or debit card numbers) on our system. </p>
 
 <br>
