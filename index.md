@@ -29,7 +29,7 @@
 
 
 
-<p style="color: #000000;"><b>* ABOUT HEALTH DATA</b><br>
+<p style="color: #000000;"><b>* About Health Data</b><br>
 On supported devices, tryAround reads your Apple Health data with your permission to determine completion of your workouts and activities. Height and weight details maintained in tryAround will automatically be updated in Apple Health. All data is accessed in full accordance with the iOS app review rules set by Apple. We do not share your health data with anyone and all your data resides only in your own iPhone. If you decide to share your steps and other data from the app directly, you must take care of your own privacy. Step and distance data is only available automatically when using an iPhone 5S or newer, or using an accessory that writes to the Health app such as Apple Watch.</p>
 
 <br>
