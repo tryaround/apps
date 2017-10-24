@@ -27,37 +27,37 @@
 * You must refrain from posting adult, illegal, defamatory or illicit contents in the app.<br><br>
 * TryAround App Ltd will not be liable for any damages or loss or any conflict or any issues arising as a result of using the app or service or website.<br><br>
 
-<p style="color: #000000;"><b>* SUBSCRIPTION FEES</b><br>
+<p style="color: #000000;"><b>SUBSCRIPTION FEES</b><br>
 If any of the apps from TryAround App Ltd require subscription or one time fees through in-app purchase, it works fully after your full payment. Some apps can offer restore feature where you can purchase features or upgrade on one device and free to use them on other devices that you own. However there is no guarantee to data transfers or data persistence between devices. All subscriptions and in-app purchase will be charged to your iTunes account after your confirmation of purchase.</p>
 
 <br>
 
-<p style="color: #000000;"><b>* SUBSCRIPTION AUTO-RENEWAL</b><br>
+<p style="color: #000000;"><b>SUBSCRIPTION AUTO-RENEWAL</b><br>
 Monthly subscriptions automatically renew each month, and yearly subscriptions automatically renew each year. Subscription renewal is charged through your iTunes account. Subscriptions renew automatically every month or every full year unless cancelled at least 24 hours prior to the end of the current subscription period.</p>
 <br>
 
-<p style="color: #000000;"><b>* TURNING OFF AUTO-RENEWAL</b><br>
+<p style="color: #000000;"><b>TURNING OFF AUTO-RENEWAL</b><br>
 You can turn off auto-renewal at any time from your iTunes account settings. For your convenience, some of our apps provide a link to your subscription management page in the app's about view. Cancellation of the currently active subscription is not allowed.</p>
 
 <br>
 
-<p style="color: #000000;"><b>* About Health Data</b><br>
+<p style="color: #000000;"><b>About Health Data</b><br>
 On supported devices, tryAround reads your Apple Health data with your permission to determine completion of your workouts and activities. Height and weight details maintained in tryAround will automatically be updated in Apple Health. All data is accessed in full accordance with the iOS app review rules set by Apple. We do not share your health data with anyone and all your data resides only in your own iPhone. If you decide to share your steps and other data from the app directly, you must take care of your own privacy. Step and distance data is only available automatically when using an iPhone 5S or newer, or using an accessory that writes to the Health app such as Apple Watch.</p>
 
 <br>
 
-<p style="color: #000000;"><b>* Retention of Financial Data</b><br>We do not store or intend to store any financial details (credit or debit card numbers) on our system. </p>
+<p style="color: #000000;"><b>Retention of Financial Data</b><br>We do not store or intend to store any financial details (credit or debit card numbers) on our system. </p>
 
 <br>
 
-<p style="color: #000000;"><b>* Liability</b><br>In TryAround App Ltd will not be liable to you for any loss caused by our app or service, customer complaints, any failure of our server, Internet problems, the crashing of our web site or app or any similar reason where such failure is occasioned by any cause beyond tryaround.com&#39;s reasonable control, including war, insurrection, fire, flood, earthquake, strikes, lock-outs, or similar cause. TryAround App Ltd will not be held liable for any loss or damage or problems or incidents or conflicts arising in any situation.
+<p style="color: #000000;"><b>Liability</b><br>In TryAround App Ltd will not be liable to you for any loss caused by our app or service, customer complaints, any failure of our server, Internet problems, the crashing of our web site or app or any similar reason where such failure is occasioned by any cause beyond tryaround.com&#39;s reasonable control, including war, insurrection, fire, flood, earthquake, strikes, lock-outs, or similar cause. TryAround App Ltd will not be held liable for any loss or damage or problems or incidents or conflicts arising in any situation.
 </p>
 <br>
 
 
-<p style="color: #000000;"><b>* Copyright and Reproduction</b><br>Unless otherwise stated, all of the contents of this app and website are copyright of tryaround.com and TryAround App Ltd. No part or parts of this app and website or its content including any trade mark and logos or other materials may be copied or incorporated into any other website, database, publication or other work in any form whatsoever. </p>
+<p style="color: #000000;"><b>Copyright and Reproduction</b><br>Unless otherwise stated, all of the contents of this app and website are copyright of tryaround.com and TryAround App Ltd. No part or parts of this app and website or its content including any trade mark and logos or other materials may be copied or incorporated into any other website, database, publication or other work in any form whatsoever. </p>
 
-<p style="color: #000000;">* Your use of the TryAround App Ltd and tryaround.com website and service and any dispute arising out of such use of the app and website is subject to the laws of England, Scotland and Wales. </p>
+<p style="color: #000000;">Your use of the TryAround App Ltd and tryaround.com website and service and any dispute arising out of such use of the app and website is subject to the laws of England, Scotland and Wales. </p>
 
 
 <br>
